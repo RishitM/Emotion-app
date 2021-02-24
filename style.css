@@ -23,8 +23,11 @@ span
 .emotion_name
 {
   font-size: 40px;
+  margin-left: 100px;
 }
 .emoji
 {
   font-size:48px;
+
+  margin-left: 100px;
 }
